@@ -1,0 +1,19 @@
+#h {
+    text-align: center;
+    position: relative;
+    top: 50px;
+    left: 10px;
+    color: white;
+}
+
+.linl {
+    text-align: center;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-image: url(donation10.jpg);
+    background-attachment: fixed;
+    background-position: top center;
+    background-repeat: no-repeat;
+}

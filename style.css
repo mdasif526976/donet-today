@@ -1,0 +1,76 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.fornt {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+#black {
+    color: black;
+}
+
+.linkbuttom {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 60, 80;
+    color: white;
+    border-radius: 5px;
+}
+
+.background {
+    background-image: url(donation10.jpg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    padding-bottom: 15%;
+    background-color: #cccccc;
+}
+
+#divbotton {
+    border: 20px solid #c0523f;
+}
+
+.button {
+    width: 50%;
+    padding-left: 30%;
+    background-image: -moz-linear-gradient(red, white);
+}
+
+.flexcontainer {
+    display: flex;
+    margin: 2%;
+}
+
+.halfwidth {
+    width: 50%;
+}
+
+.halfwidth img {
+    width: 85%;
+}
+
+.email {
+    text-align: center;
+    padding-bottom: 25%;
+
+}
+
+#email {
+    background-color: white;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+}
+
+.halffooter {
+    color: rgb(238, 35, 69);
+}
+
+#rdfooter {
+    color: white;
+}
